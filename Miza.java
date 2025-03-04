@@ -9,7 +9,7 @@ import java.awt.event.*;
  * razširja razred za delo z okni
  *
  * @author Boris Volarič
- * @version Primer 20 - GUI
+ * @version Primer 21 - projekt
  */
 public class Miza extends JFrame implements ActionListener {
 	
